@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>编组 22</title>
+    <desc>Created with Sketch.</desc>
+    <g id="编组-22" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="矩形" x="0" y="0" width="88" height="88"></rect>
+            <g id="编组-10" transform="translate(13.000000, 11.000000)">
+                <path d="M32,42 C32,46.418278 35.8055796,50 40.5,50 C45.1944204,50 49,46.418278 49,42" id="路径" stroke="#9EC8FF" stroke-width="5" stroke-linecap="round"></path>
+                <path d="M17,34 C17,38.418278 20.3578644,42 24.5,42 C28.6421356,42 32,38.418278 32,34" id="路径备份-7" stroke="#9EC8FF" stroke-width="5" stroke-linecap="round" transform="translate(24.500000, 38.000000) rotate(-180.000000) translate(-24.500000, -38.000000) "></path>
+                <path d="M24,42 C24,51.3888407 31.5582723,59 40.8818737,59 C41.9471759,59 42.9894317,58.900636 44,58.7106095" id="路径" stroke="#9EC8FF" stroke-width="5" stroke-linecap="round"></path>
+                <path d="M8,25 C8,34.3888407 15.3873016,42 24.5,42 C33.6126984,42 41,34.3888407 41,25" id="路径备份-8" stroke="#9EC8FF" stroke-width="5" stroke-linecap="round" transform="translate(24.500000, 33.500000) rotate(-180.000000) translate(-24.500000, -33.500000) "></path>
+                <path d="M17,42 C17,52.6225301 23.2621047,61.6583795 32,65" id="路径" stroke="#9EC8FF" stroke-width="5" stroke-linecap="round"></path>
+                <path d="M0,18 C0,31.254834 10.9690236,42 24.5,42 C38.0309764,42 49,31.254834 49,18" id="路径备份-9" stroke="#9EC8FF" stroke-width="5" stroke-linecap="round" transform="translate(24.500000, 30.000000) rotate(-180.000000) translate(-24.500000, -30.000000) "></path>
+                <path d="M8,42 C8,51.4756385 12.6170737,60.0127102 20,66" id="路径" stroke="#9EC8FF" stroke-width="5" stroke-linecap="round"></path>
+                <path d="M0,11.3418889 C5.88864243,16.6995151 13.9345346,20 22.8060386,20 C32.3962154,20 41.0215982,16.1431169 47,10" id="路径" stroke="#DBEAFF" stroke-width="5" stroke-linecap="round" transform="translate(23.500000, 15.000000) rotate(-180.000000) translate(-23.500000, -15.000000) "></path>
+                <path d="M0,42 C0,48.8151979 1.43793648,55.2629697 4,61" id="路径" stroke="#9EC8FF" stroke-width="5" stroke-linecap="round"></path>
+                <path d="M8,0 C13.7068115,3.84202078 20.1284148,6 26.9184088,6 C32.6051782,6 38.0335425,4.48630032 43,1.73732705" id="路径" stroke="#DBEAFF" stroke-width="5" stroke-linecap="round" transform="translate(25.500000, 3.000000) rotate(-180.000000) translate(-25.500000, -3.000000) "></path>
+                <ellipse id="椭圆形" fill="#4291F7" cx="51.5" cy="51" rx="14.5" ry="14"></ellipse>
+                <polyline id="路径-15" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="44 50.4912054 50.116898 56 59 48"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="403px" height="305px" viewBox="0 0 403 305" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>编组 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="203" cy="191.5" rx="148" ry="75.5"></ellipse>
+        <filter x="-6.2%" y="-12.3%" width="112.5%" height="124.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="6" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="14.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.192156863   0 0 0 0 0.501960784   0 0 0 0 0.898039216  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="-5.99841887%" x2="50%" y2="79.8254082%" id="linearGradient-3">
+            <stop stop-color="#3F4D5F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#3181E7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8258024%" id="linearGradient-4">
+            <stop stop-color="#4291F7" offset="0%"></stop>
+            <stop stop-color="#4291F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8258024%" id="linearGradient-5">
+            <stop stop-color="#4291F7" offset="0%"></stop>
+            <stop stop-color="#4291F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8258024%" id="linearGradient-6">
+            <stop stop-color="#42C8F7" offset="0%"></stop>
+            <stop stop-color="#4291F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.8258024%" id="linearGradient-7">
+            <stop stop-color="#4291F7" offset="0%"></stop>
+            <stop stop-color="#4291F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="统一目录" transform="translate(-869.000000, -91.000000)">
+            <g id="编组-5" transform="translate(870.000000, 91.000000)">
+                <ellipse id="椭圆形" stroke="#3181E7" opacity="0.516624814" cx="202.5" cy="194.5" rx="173.5" ry="91.5"></ellipse>
+                <path d="M200.5,304 C311.233092,304 401,256.542183 401,198 C401,139.457817 311.233092,92 200.5,92 C89.7669077,92 0,139.457817 0,198 C0,256.542183 89.7669077,304 200.5,304 Z" id="椭圆形备份-19" stroke="#3181E7" opacity="0.288922991" stroke-dasharray="7,9"></path>
+                <ellipse id="椭圆形备份-17" stroke="#3181E7" opacity="0.874627976" cx="202.5" cy="193" rx="155.5" ry="80"></ellipse>
+                <g id="椭圆形备份-18">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#3181E7" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <path d="M93.6084484,176 L201,237.846027 L308.391552,176 L201,114.153973 L93.6084484,176 Z" id="矩形" stroke="#4E8FE3" stroke-width="2" opacity="0.535644531"></path>
+                <g id="编组" opacity="0.792224702" transform="translate(119.000000, 107.000000)">
+                    <polygon id="矩形备份-6" fill="#09B6EE" points="0 44.5 82.5 1 165 44.5 82.5 88"></polygon>
+                    <polygon id="路径-4" fill="#01CBFC" points="0 44 0 69.8134113 83 114 83 87.8346908"></polygon>
+                    <ellipse id="椭圆形" fill="#FFD34F" transform="translate(9.675926, 62.888584) rotate(-13.000000) translate(-9.675926, -62.888584) " cx="9.67592593" cy="62.8885845" rx="3.58655901" ry="6.17124036"></ellipse>
+                    <polygon id="路径-4备份" fill="#0698CC" transform="translate(123.500000, 79.000000) scale(-1, 1) translate(-123.500000, -79.000000) " points="82 44 82 70.0107855 165 114 165 87.6388885"></polygon>
+                </g>
+                <g id="编组备份" opacity="0.792224702" transform="translate(119.000000, 71.000000)">
+                    <polygon id="矩形备份-6" fill="#09B6EE" points="0 44.5 82.5 1 165 44.5 82.5 88"></polygon>
+                    <polygon id="路径-4" fill="#01CBFC" points="0 44 0 69.8134113 83 114 83 87.8346908"></polygon>
+                    <ellipse id="椭圆形" fill="#FFD34F" transform="translate(9.675926, 62.888584) rotate(-13.000000) translate(-9.675926, -62.888584) " cx="9.67592593" cy="62.8885845" rx="3.58655901" ry="6.17124036"></ellipse>
+                    <polygon id="路径-4备份" fill="#0698CC" transform="translate(123.500000, 79.000000) scale(-1, 1) translate(-123.500000, -79.000000) " points="82 44 82 70.0107855 165 114 165 87.6388885"></polygon>
+                </g>
+                <g id="编组备份-2" opacity="0.792224702" transform="translate(119.000000, 33.000000)">
+                    <polygon id="矩形备份-6" fill="#09B6EE" points="0 44.5 82.5 1 165 44.5 82.5 88"></polygon>
+                    <polygon id="路径-4" fill="#01CBFC" points="0 44 0 69.8134113 83 114 83 87.8346908"></polygon>
+                    <ellipse id="椭圆形" fill="#FFD34F" transform="translate(9.675926, 62.888584) rotate(-13.000000) translate(-9.675926, -62.888584) " cx="9.67592593" cy="62.8885845" rx="3.58655901" ry="6.17124036"></ellipse>
+                    <polygon id="路径-4备份" fill="#0698CC" transform="translate(123.500000, 79.000000) scale(-1, 1) translate(-123.500000, -79.000000) " points="82 44 82 70.0107855 165 114 165 87.6388885"></polygon>
+                </g>
+                <path d="M220.496024,64.8621599 C211.896696,59.9340724 198.228814,59.7220572 189.246546,64.2265743 C183.660226,61.0523258 174.670082,61.0589944 169.138898,64.2495695 C163.78563,67.3378162 163.629258,72.278551 168.646845,75.4953405 L168.630629,75.5047685 L201.33495,94.2469537 L201.33773,94.2451141 C207.975337,97.9477908 218.557469,97.9190469 225.086425,94.1529036 C231.668201,90.3561768 231.63322,84.1987693 225.008587,80.4022725 C224.918238,80.3503035 224.8265,80.3029335 224.734761,80.2539538 C229.18408,75.2874645 227.765839,69.0284185 220.496024,64.8621599" id="Fill-1" fill="#FFD03E"></path>
+                <path d="M350.968953,185.269565 C349.338725,231.118738 283.714995,268 203,268 C122.285005,268 56.6612752,231.118738 55.0310471,185.269565 L55,185.269565 L55,0 L351,0 L351,185.269565 L350.968953,185.269565 Z" id="路径" fill="url(#linearGradient-3)" opacity="0.527529762"></path>
+                <g id="编组-4" opacity="0.40359933" transform="translate(116.000000, 30.000000)">
+                    <ellipse id="椭圆形" stroke="#4291F7" stroke-width="2" cx="2.5" cy="2.63513514" rx="2.5" ry="2.63513514"></ellipse>
+                    <polygon id="矩形" fill="url(#linearGradient-4)" points="2 5.27027027 4 5.27027027 4 39 2 39"></polygon>
+                </g>
+                <circle id="椭圆形备份-23" stroke="#4291F7" stroke-width="2" cx="48" cy="61" r="5"></circle>
+                <g id="编组-3" opacity="0.485653832" transform="translate(326.000000, 52.000000)">
+                    <ellipse id="椭圆形备份-22" stroke="#4291F7" stroke-width="2" cx="5" cy="5.25423729" rx="5" ry="5.25423729"></ellipse>
+                    <polygon id="矩形备份-9" fill="url(#linearGradient-5)" points="4 10.5084746 6 10.5084746 6 62 4 62"></polygon>
+                </g>
+                <circle id="椭圆形备份-21" stroke="#4291F7" stroke-width="2" cx="364" cy="153" r="5"></circle>
+                <g id="编组-2" transform="translate(89.000000, 222.000000)">
+                    <ellipse id="椭圆形备份-20" stroke="#42C8F7" stroke-width="2" cx="4" cy="4.2" rx="4" ry="4.2"></ellipse>
+                    <rect id="矩形备份-7" fill="url(#linearGradient-6)" x="3" y="7.35" width="2" height="34.65"></rect>
+                </g>
+                <polygon id="矩形备份-10" fill="url(#linearGradient-7)" points="47 66 49 66 49 138 47 138"></polygon>
+                <polygon id="矩形备份-8" fill="url(#linearGradient-7)" points="363 158 365 158 365 230 363 230"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

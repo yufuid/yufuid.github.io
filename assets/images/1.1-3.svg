@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="541px" height="155px" viewBox="0 0 541 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>编组 12</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lcm" transform="translate(-748.000000, -1675.000000)">
+            <g id="编组-14" transform="translate(150.000000, 1675.000000)">
+                <g id="编组-12" transform="translate(597.000000, 0.000000)">
+                    <rect id="矩形备份-26" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="217" y="24" width="88" height="98" rx="4"></rect>
+                    <path d="M269,69.3929562 L264.142857,69.3929562 L264.142857,85 L256.857143,85 L256.857143,80.4264463 L252,80.4264463 L252,73.0334901 L256.857143,73.0334901 L256.857143,62 L269,62 L269,69.3929562 Z M294,69.6158195 L283.439198,69.6158195 C281.920875,59.3678353 273.945516,51.2714206 263.855193,49.7293734 L263.855193,39 C279.740202,40.6595025 292.366028,53.4826076 294,69.6158195 Z M237.004613,73.1724048 C237.004613,86.2686827 247.457652,96.8859396 260.353324,96.8859396 C272.057468,96.8859396 281.749155,88.1381812 283.439198,76.7298799 L290.498131,76.7298799 C288.760777,92.0782762 275.930814,104 260.353324,104 C243.589563,104 230,90.1980999 230,73.1724048 C230,57.3515175 241.738313,44.3210858 256.85058,42.5565853 L256.85058,49.7258142 C245.617791,51.4422648 237.004613,61.2853838 237.004613,73.1724048 Z" id="形状结合备份" fill="#4291F7" fill-rule="nonzero"></path>
+                    <text id="玉符统一目录" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5B626E">
+                        <tspan x="230" y="153">玉符统一目录</tspan>
+                    </text>
+                    <rect id="矩形备份-10" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="393" y="9" width="92" height="38" rx="4"></rect>
+                    <rect id="矩形备份-11" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="393" y="53" width="92" height="38" rx="4"></rect>
+                    <rect id="矩形备份-12" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="393" y="97" width="92" height="38" rx="4"></rect>
+                    <text id="Clouds" font-family="DINAlternate-Bold, DIN Alternate" font-size="12" font-weight="bold" fill="#5B626E">
+                        <tspan x="496" y="32">Clouds</tspan>
+                    </text>
+                    <text id="Office365" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" fill="#4291F7">
+                        <tspan x="405" y="35">Office365</tspan>
+                    </text>
+                    <text id="SAP" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" fill="#4291F7">
+                        <tspan x="423" y="79">SAP</tspan>
+                    </text>
+                    <text id="钉钉" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#4291F7">
+                        <tspan x="421" y="123">钉钉</tspan>
+                    </text>
+                    <rect id="矩形备份-10" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="56" y="1" width="72" height="30" rx="4"></rect>
+                    <rect id="矩形备份-11" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="56" y="38" width="72" height="30" rx="4"></rect>
+                    <rect id="矩形备份-12" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="56" y="75" width="72" height="30" rx="4"></rect>
+                    <rect id="矩形备份-27" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="56" y="112" width="72" height="30" rx="4"></rect>
+                    <text id="HR" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" fill="#4291F7">
+                        <tspan x="81" y="23">HR</tspan>
+                    </text>
+                    <text id="OA" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" fill="#4291F7">
+                        <tspan x="81" y="60">OA</tspan>
+                    </text>
+                    <text id="AD" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#4291F7">
+                        <tspan x="79" y="97">AD</tspan>
+                    </text>
+                    <text id="SDK" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#4291F7">
+                        <tspan x="73" y="134">SDK</tspan>
+                    </text>
+                    <text id="On-Prem" font-family="DINAlternate-Bold, DIN Alternate" font-size="12" font-weight="bold" fill="#5B626E">
+                        <tspan x="496" y="76">On-Prem</tspan>
+                    </text>
+                    <text id="Mobile" font-family="DINAlternate-Bold, DIN Alternate" font-size="12" font-weight="bold" fill="#5B626E">
+                        <tspan x="496" y="120">Mobile</tspan>
+                    </text>
+                    <text id="HR系统" font-family="DINAlternate-Bold, DIN Alternate" font-size="12" font-weight="bold" fill="#5B626E">
+                        <tspan x="7" y="17">HR</tspan>
+                        <tspan x="22.09375" y="17" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">系统</tspan>
+                    </text>
+                    <text id="OA系统" font-family="DINAlternate-Bold, DIN Alternate" font-size="12" font-weight="bold" fill="#5B626E">
+                        <tspan x="8" y="55">OA</tspan>
+                        <tspan x="22.4199219" y="55" font-family="PingFangSC-Semibold, PingFang SC" font-weight="500">系统</tspan>
+                    </text>
+                    <text id="Microsoft-Active-Dir" font-family="DINAlternate-Bold, DIN Alternate" font-size="12" font-weight="bold" fill="#5B626E">
+                        <tspan x="0.822265625" y="81">Microsoft</tspan>
+                        <tspan x="16.8886719" y="95">Active</tspan>
+                        <tspan x="1.45507812" y="109">Directory</tspan>
+                    </text>
+                    <polygon id="路径备份-11" fill="#4291F7" fill-rule="nonzero" transform="translate(172.488557, 40.819455) scale(1, -1) rotate(-30.000000) translate(-172.488557, -40.819455) " points="127.1798 39.9860912 212.035293 39.9860912 212.035293 38.319455 217.79734 40.819455 212.035293 43.319455 212.035293 41.6527731 127.179774 41.6527731"></polygon>
+                    <polygon id="路径备份-11" fill="#4291F7" fill-rule="nonzero" transform="translate(173.024527, 62.500000) scale(1, -1) rotate(-12.000000) translate(-173.024527, -62.500000) " points="133.000026 61.6054407 207.287008 61.6666361 207.287008 60 213.049055 62.5 207.287008 65 207.287008 63.3333181 133 63.2721226"></polygon>
+                    <polygon id="路径备份-13" fill="#4291F7" fill-rule="nonzero" transform="translate(173.024527, 83.500000) rotate(-12.000000) translate(-173.024527, -83.500000) " points="133.000026 82.6054407 207.287008 82.6666361 207.287008 81 213.049055 83.5 207.287008 86 207.287008 84.3333181 133 84.2721226"></polygon>
+                    <polygon id="路径备份-12" fill="#4291F7" fill-rule="nonzero" transform="translate(172.488557, 104.458365) rotate(-30.000000) translate(-172.488557, -104.458365) " points="127.1798 103.625001 212.035293 103.625001 212.035293 101.958365 217.79734 104.458365 212.035293 106.958365 212.035293 105.291683 127.179774 105.291683"></polygon>
+                    <polygon id="路径备份-17" fill="#4291F7" fill-rule="nonzero" transform="translate(348.686295, 72.151080) rotate(179.000000) translate(-348.686295, -72.151080) " points="308.661793 71.2565211 382.948775 71.3177166 382.948775 69.6510804 388.710822 72.1510804 382.948775 74.6510804 382.948775 72.9843985 308.661767 72.9232031"></polygon>
+                    <polygon id="路径备份-18" fill="#4291F7" fill-rule="nonzero" transform="translate(349.923570, 47.336934) scale(1, -1) rotate(-516.000000) translate(-349.923570, -47.336934) " points="309.899069 46.4423748 384.18605 46.5035702 384.18605 44.8369341 389.948097 47.3369341 384.18605 49.8369341 384.18605 48.1702521 309.899042 48.1090567"></polygon>
+                    <polygon id="路径备份-19" fill="#4291F7" fill-rule="nonzero" transform="translate(351.139752, 98.112216) rotate(-158.000000) translate(-351.139752, -98.112216) " points="311.115251 97.2176564 385.402233 97.2788519 385.402233 95.6122157 391.16428 98.1122157 385.402233 100.612216 385.402233 98.9455338 311.115225 98.8843383"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

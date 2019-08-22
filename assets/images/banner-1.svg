@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="349px" height="279px" viewBox="0 0 349 279" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="171.5" cy="171.5" rx="138.5" ry="71.5"></ellipse>
+        <filter x="-6.7%" y="-12.9%" width="113.4%" height="125.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="16" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="10" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.258823529   0 0 0 0 0.568627451   0 0 0 0 0.968627451  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="173.5" cy="181.5" rx="158.5" ry="81.5"></ellipse>
+        <filter x="-3.5%" y="-6.7%" width="106.9%" height="113.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="8" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="6" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.258823529   0 0 0 0 0.568627451   0 0 0 0 0.968627451  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M218.042788,89.5014521 L219,89 L219,147.652499 L171,173 L123,147.538768 L123,89 L123.955063,89.5025713 L171,65 L218.042788,89.5014521 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="96" height="108" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#77C4FC" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4291F7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#42CFF7" offset="0%"></stop>
+            <stop stop-color="#42CFF7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#42CFF7" offset="0%"></stop>
+            <stop stop-color="#42CFF7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="单点登录" transform="translate(-886.000000, -101.000000)">
+            <g id="编组" transform="translate(887.000000, 101.000000)">
+                <g id="椭圆形备份-17" opacity="0.579729353">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#4291F7" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="椭圆形备份-22" opacity="0.472284226">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use stroke="#4291F7" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <ellipse id="椭圆形备份-29" stroke="#4291F7" opacity="0.472284226" cx="173.5" cy="188.5" rx="173.5" ry="89.5"></ellipse>
+                <use id="形状结合" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="4" fill="#FFCA43" opacity="0.522274926" stroke-dasharray="2,2" xlink:href="#path-5"></use>
+                <polygon id="矩形备份-6" fill="#09A8EE" opacity="0.662411644" points="90 71.5 170.5 29 251 71.5 170.5 114"></polygon>
+                <polygon id="路径-4" fill="#45BEFF" opacity="0.662411644" points="90 72 90 170.261504 170 213 170 114.398131"></polygon>
+                <polygon id="路径-4备份" fill="#0287DA" opacity="0.662411644" transform="translate(210.500000, 142.500000) scale(-1, 1) translate(-210.500000, -142.500000) " points="170 72 170 170.45241 251 213 251 114.208745"></polygon>
+                <path d="M91.0709437,71.5 L170.5,113.434595 L249.929056,71.5 L170.5,29.5654051 L91.0709437,71.5 Z" id="矩形备份-6" stroke="#2785FF"></path>
+                <polygon id="路径-4" stroke="#2785FF" points="90 72 90 170.261504 170 213 170 114.398131"></polygon>
+                <polygon id="路径-4备份" stroke="#2785FF" transform="translate(210.500000, 142.500000) scale(-1, 1) translate(-210.500000, -142.500000) " points="170 72 170 170.45241 251 213 251 114.208745"></polygon>
+                <circle id="椭圆形备份-31" stroke="#4291F7" fill-opacity="0.532888986" fill="#4291F7" opacity="0.662388393" cx="48" cy="48" r="12"></circle>
+                <circle id="椭圆形备份-30" fill="#4291F7" cx="48" cy="48" r="5"></circle>
+                <circle id="椭圆形备份-23" fill="#FFCA43" cx="170" cy="114" r="5"></circle>
+                <circle id="椭圆形备份-24" fill="#FFCA43" cx="170" cy="29" r="5"></circle>
+                <circle id="椭圆形备份-25" fill="#FFCA43" cx="170" cy="212" r="5"></circle>
+                <circle id="椭圆形备份-26" fill="#FFCA43" cx="90" cy="169" r="5"></circle>
+                <circle id="椭圆形备份-27" fill="#FFCA43" cx="251" cy="169" r="5"></circle>
+                <circle id="椭圆形备份-28" fill="#FFCA43" cx="251" cy="71" r="5"></circle>
+                <path d="M49.5,49.5 L92,72" id="路径-8" stroke="#4291F7"></path>
+                <circle id="椭圆形" fill="#FFCA43" cx="90" cy="71" r="5"></circle>
+                <path d="M92,72 L170,114" id="路径-9" stroke="#FFCA43" stroke-width="2"></path>
+                <path d="M170,114.208745 L170,211.125023" id="路径-10" stroke="#FFCA43" stroke-width="2"></path>
+                <path d="M171.5,212 L248.594762,171.5" id="路径-11" stroke="#FFCA43" stroke-width="2"></path>
+                <path d="M248.594762,71 L170,29" id="路径-17" stroke="#FFCA43" stroke-width="2"></path>
+                <path d="M90,72 L90,169" id="路径-18" stroke="#FFCA43" stroke-width="2"></path>
+                <path d="M251,72 L251,169" id="路径-22" stroke="#FFCA43" stroke-width="2"></path>
+                <path d="M309.970127,173 C308.423531,211.795843 247.020541,243 171.5,243 C95.9794593,243 34.5764687,211.795843 33.0298733,173 L33,173 L33,0 L310,0 L310,173 L309.970127,173 Z" id="路径" fill="url(#linearGradient-7)" opacity="0.609421503"></path>
+                <circle id="椭圆形" fill="#42CFF7" cx="24" cy="117" r="4"></circle>
+                <circle id="椭圆形备份-33" fill="#42CFF7" cx="272" cy="154" r="4"></circle>
+                <circle id="椭圆形备份-32" fill="#42CFF7" opacity="0.380045573" cx="272" cy="59" r="4"></circle>
+                <path d="M24,123.75 L24,175.25" id="路径-24" stroke="url(#linearGradient-8)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,4"></path>
+                <path d="M272,160.75 L272,212.25" id="路径-24备份-2" stroke="url(#linearGradient-8)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,4"></path>
+                <path d="M272,65.75 L272,102" id="路径-24备份" stroke="url(#linearGradient-9)" stroke-width="2" opacity="0.380045573" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="346px" height="285px" viewBox="0 0 346 285" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="171" cy="192.5" rx="125" ry="49.5"></ellipse>
+        <filter x="-6.2%" y="-15.7%" width="112.4%" height="131.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="10" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="10" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.258823529   0 0 0 0 0.568627451   0 0 0 0 0.968627451  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <ellipse id="path-3" cx="172.5" cy="201.5" rx="157.5" ry="64.5"></ellipse>
+        <filter x="-2.7%" y="-6.6%" width="105.4%" height="113.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="5" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="5.5" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.258823529   0 0 0 0 0.568627451   0 0 0 0 0.968627451  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#4291F7" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4291F7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#42B2F7" offset="0%"></stop>
+            <stop stop-color="#77C4FC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFD809" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFB004" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#FFD809" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFB004" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFB947" offset="0%"></stop>
+            <stop stop-color="#FFDD7D" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#4291F7" offset="0%"></stop>
+            <stop stop-color="#4291F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#4291F7" offset="0%"></stop>
+            <stop stop-color="#4291F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#4291F7" offset="0%"></stop>
+            <stop stop-color="#4291F7" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MFA" transform="translate(-889.000000, -97.000000)">
+            <g id="编组" transform="translate(890.000000, 97.000000)">
+                <g id="椭圆形备份-4" opacity="0.631208147">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke="#4291F7" stroke-width="1" xlink:href="#path-1"></use>
+                </g>
+                <g id="椭圆形备份-4" opacity="0.657203311">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use stroke="#4291F7" stroke-width="1" xlink:href="#path-3"></use>
+                </g>
+                <path d="M46.1532033,199.128572 L21,0 L322,0 L296.846797,199.128572 L296.49517,199.128572 C291.659288,223.103892 237.544652,242 171.5,242 C105.455348,242 51.3407116,223.103892 46.5048304,199.128572 L46.1532033,199.128572 Z" id="路径" fill="url(#linearGradient-5)" opacity="0.512904576"></path>
+                <ellipse id="椭圆形备份-5" stroke="#4291F7" opacity="0.342610677" cx="172" cy="208.5" rx="172" ry="75.5"></ellipse>
+                <path d="M226.46839,136.112071 C216.972615,166.28084 195.116317,192 169.5,192 C143.784186,192 121.857657,166.712838 112.421522,136.119845 C103.475846,136.714243 95.35447,128.160679 94.1503079,116.735268 C92.9689168,105.525916 98.8764078,95.6399213 107.480392,94.0675202 C111.307104,57.6998593 137.533526,38 169.5,38 C201.466474,38 227.692896,57.6998593 231.519608,94.0675202 C240.123592,95.6399213 246.031083,105.525916 244.849692,116.735268 C243.640592,128.20753 235.457433,136.784344 226.46839,136.112071 Z" id="形状结合" fill="url(#linearGradient-6)" fill-rule="nonzero"></path>
+                <ellipse id="椭圆形备份-2" stroke="url(#linearGradient-7)" stroke-width="4" opacity="0.660179501" cx="169.5" cy="93.5" rx="61.5" ry="19.5"></ellipse>
+                <ellipse id="椭圆形备份-6" stroke="url(#linearGradient-8)" stroke-width="4" opacity="0.660179501" cx="169" cy="141.5" rx="54" ry="17.5"></ellipse>
+                <path d="M168.5,192.441357 L168.5,52.2246899" id="路径-5" stroke="url(#linearGradient-9)" stroke-width="4" stroke-linecap="round"></path>
+                <path d="M8.5,213 L8.5,124" id="路径-6" stroke="url(#linearGradient-10)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,8"></path>
+                <path d="M269.5,232 L269.5,157" id="路径-6备份-3" stroke="url(#linearGradient-11)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,8"></path>
+                <path d="M296.5,132.533333 L296.5,63" id="路径-6备份-2" stroke="url(#linearGradient-12)" stroke-width="4" opacity="0.801269531" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,8"></path>
+                <path d="M51.5,101 L51.5,12" id="路径-6备份" stroke="url(#linearGradient-10)" stroke-width="4" opacity="0.506138393" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,8"></path>
+            </g>
+        </g>
+    </g>
+</svg>

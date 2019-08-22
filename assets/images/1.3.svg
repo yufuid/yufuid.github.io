@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="212px" viewBox="0 0 512 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>编组 18</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="账号生命周期管理" transform="translate(-778.000000, -1395.000000)">
+            <g id="编组-22" transform="translate(150.000000, 1392.000000)">
+                <g id="编组-18" transform="translate(628.000000, 0.000000)">
+                    <rect id="矩形备份-25" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="1" y="67" width="98" height="98" rx="4"></rect>
+                    <path d="M57,112.392956 L52.1428571,112.392956 L52.1428571,128 L44.8571429,128 L44.8571429,123.426446 L40,123.426446 L40,116.03349 L44.8571429,116.03349 L44.8571429,105 L57,105 L57,112.392956 Z M82,112.61582 L71.4391983,112.61582 C69.920875,102.367835 61.945516,94.2714206 51.8551931,92.7293734 L51.8551931,82 C67.7402018,83.6595025 80.3660283,96.4826076 82,112.61582 Z M25.0046133,116.172405 C25.0046133,129.268683 35.4576517,139.88594 48.3533245,139.88594 C60.0574683,139.88594 69.7491547,131.138181 71.4391983,119.72988 L78.4981314,119.72988 C76.760777,135.078276 63.9308136,147 48.3533245,147 C31.5895632,147 18,133.1981 18,116.172405 C18,100.351517 29.7383126,87.3210858 44.8505797,85.5565853 L44.8505797,92.7258142 C33.6177908,94.4422648 25.0046133,104.285384 25.0046133,116.172405 Z" id="形状结合" fill="#4291F7" fill-rule="nonzero"></path>
+                    <polygon id="路径备份" fill="#4291F7" fill-rule="nonzero" points="406.237953 110.666636 406.237953 109 412 111.5 406.237953 114 406.237953 112.333318 325 112.333318 325 110.666636"></polygon>
+                    <polygon id="路径" fill="#4291F7" fill-rule="nonzero" points="376.367994 67.3267952 350.613773 112 349 110.814097 374.884755 65.9650549 375.108707 65.6633748 375.65603 65.6633748 406.220006 65.6633748 406.220006 64 412 66.4951078 406.220006 68.9902156 406.220006 67.3267952"></polygon>
+                    <polygon id="路径备份-2" fill="#4291F7" fill-rule="nonzero" transform="translate(380.500000, 135.000000) scale(1, -1) translate(-380.500000, -135.000000) " points="376.367994 114.326795 350.613773 159 349 157.814097 374.884755 112.965055 375.108707 112.663375 375.65603 112.663375 406.220006 112.663375 406.220006 111 412 113.495108 406.220006 115.990216 406.220006 114.326795"></polygon>
+                    <path d="M107.762047,112.333364 L107.762047,114 L102,111.5 L107.762047,109 L107.762047,110.666682 L209,110.666682 L209,112.333364 L107.762047,112.333364 Z M208.237953,110.666636 L208.237953,109 L214,111.5 L208.237953,114 L208.237953,112.333318 L107,112.333318 L107,110.666636 L208.237953,110.666636 Z" id="形状" fill="#4291F7" fill-rule="nonzero"></path>
+                    <text id="玉符统一目录" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5B626E">
+                        <tspan x="14" y="196">玉符统一目录</tspan>
+                    </text>
+                    <text id="玉符本地部署-账户配置代理" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5B626E">
+                        <tspan x="232" y="196">玉符本地部署</tspan>
+                        <tspan x="232" y="213">账户配置代理</tspan>
+                    </text>
+                    <text id="外部网络" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#979CA5">
+                        <tspan x="23" y="18">外部网络</tspan>
+                    </text>
+                    <text id="内部网络" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#979CA5">
+                        <tspan x="319" y="15">内部网络</tspan>
+                    </text>
+                    <text id="防火墙" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5B626E">
+                        <tspan x="139" y="196">防火墙</tspan>
+                    </text>
+                    <rect id="矩形" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="217" y="68" width="114" height="92" rx="4"></rect>
+                    <rect id="矩形备份-6" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="419" y="49" width="92" height="38" rx="4"></rect>
+                    <rect id="矩形备份-7" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="419" y="93" width="92" height="38" rx="4"></rect>
+                    <rect id="矩形备份-8" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="419" y="137" width="92" height="38" rx="4"></rect>
+                    <text id="SCIM" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" fill="#4291F7">
+                        <tspan x="446" y="75">SCIM</tspan>
+                    </text>
+                    <text id="API" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" fill="#4291F7">
+                        <tspan x="452" y="119">API</tspan>
+                    </text>
+                    <text id="SDK" font-family="DINAlternate-Bold, DIN Alternate" font-size="18" font-weight="bold" fill="#4291F7">
+                        <tspan x="448" y="163">SDK</tspan>
+                    </text>
+                    <path d="M279,115.50006 L276.142857,115.50006 L276.142857,125 L271.857143,125 L271.857143,122.216098 L269,122.216098 L269,117.716037 L271.857143,117.716037 L271.857143,111 L279,111 L279,115.50006 Z M294,115.840504 L287.564511,115.840504 C286.639283,109.534052 281.779299,104.551643 275.630508,103.602691 L275.630508,97 C285.310435,98.0212323 293.004298,105.912374 294,115.840504 Z M259.268436,118.029172 C259.268436,126.08842 265.638257,132.622117 273.496557,132.622117 C280.62877,132.622117 286.534641,127.238881 287.564511,120.218388 L291.866049,120.218388 C290.807348,129.663555 282.98909,137 273.496557,137 C263.28114,137 255,128.506523 255,118.029172 C255,108.293242 262.153034,100.274514 271.362072,99.1886679 L271.362072,103.600501 C264.517091,104.656778 259.268436,110.714082 259.268436,118.029172 Z" id="形状结合" fill="#CBD3DA" fill-rule="nonzero"></path>
+                    <path d="M224,160 L224,161 C224,162.656854 225.343146,164 227,164 L322,164 C323.656854,164 325,162.656854 325,161 L325,160 L224,160 Z" id="矩形备份-4" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF"></path>
+                    <path d="M230,164 L230,165 C230,166.656854 231.343146,168 233,168 L315,168 C316.656854,168 318,166.656854 318,165 L318,164 L230,164 Z" id="矩形备份-5" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF"></path>
+                    <path d="M216,78.5 L332,78.5" id="路径-19" stroke="#CBD3DA" stroke-width="2"></path>
+                    <circle id="椭圆形" fill="#CBD3DA" cx="222" cy="73" r="2"></circle>
+                    <circle id="椭圆形备份-15" fill="#CBD3DA" cx="229" cy="73" r="2"></circle>
+                    <circle id="椭圆形备份-16" fill="#CBD3DA" cx="237" cy="73" r="2"></circle>
+                    <path d="M157.5,48 L157.5,102.231185" id="路径-21" stroke="#CBD3DA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4"></path>
+                    <path d="M157.5,117 L157.5,176" id="路径-21备份" stroke="#CBD3DA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

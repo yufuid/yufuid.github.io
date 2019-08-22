@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="270px" height="140px" viewBox="0 0 270 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>编组 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="目录集成" transform="translate(-1020.000000, -1631.000000)">
+            <g id="编组-12" transform="translate(150.000000, 1631.000000)">
+                <g id="编组-3" transform="translate(870.000000, 0.000000)">
+                    <rect id="矩形备份-26" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="1" y="16" width="88" height="98" rx="4"></rect>
+                    <path d="M53,61.3929562 L48.1428571,61.3929562 L48.1428571,77 L40.8571429,77 L40.8571429,72.4264463 L36,72.4264463 L36,65.0334901 L40.8571429,65.0334901 L40.8571429,54 L53,54 L53,61.3929562 Z M78,61.6158195 L67.4391983,61.6158195 C65.920875,51.3678353 57.945516,43.2714206 47.8551931,41.7293734 L47.8551931,31 C63.7402018,32.6595025 76.3660283,45.4826076 78,61.6158195 Z M21.0046133,65.1724048 C21.0046133,78.2686827 31.4576517,88.8859396 44.3533245,88.8859396 C56.0574683,88.8859396 65.7491547,80.1381812 67.4391983,68.7298799 L74.4981314,68.7298799 C72.760777,84.0782762 59.9308136,96 44.3533245,96 C27.5895632,96 14,82.1980999 14,65.1724048 C14,49.3515175 25.7383126,36.3210858 40.8505797,34.5565853 L40.8505797,41.7258142 C29.6177908,43.4422648 21.0046133,53.2853838 21.0046133,65.1724048 Z" id="形状结合备份" fill="#4291F7" fill-rule="nonzero"></path>
+                    <text id="玉符统一目录备份" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5B626E">
+                        <tspan x="9" y="138">玉符统一目录</tspan>
+                    </text>
+                    <rect id="矩形备份-10" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="177" y="1" width="92" height="38" rx="4"></rect>
+                    <rect id="矩形备份-12" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="177" y="99" width="92" height="38" rx="4"></rect>
+                    <text id="人员信息" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" line-spacing="26" fill="#4291F7">
+                        <tspan x="191" y="24">人员信息</tspan>
+                    </text>
+                    <text id="组织架构" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" line-spacing="26" fill="#4291F7">
+                        <tspan x="191" y="122">组织架构</tspan>
+                    </text>
+                    <polygon id="路径备份-7" fill="#4291F7" fill-rule="nonzero" transform="translate(133.308783, 44.500000) rotate(-30.000000) translate(-133.308783, -44.500000) " points="88.0000264 43.6666361 172.855519 43.6666361 172.855519 42 178.617566 44.5 172.855519 47 172.855519 45.3333181 88 45.3333181"></polygon>
+                    <polygon id="路径备份-10" fill="#4291F7" fill-rule="nonzero" transform="translate(133.308783, 96.500000) scale(1, -1) rotate(-30.000000) translate(-133.308783, -96.500000) " points="88.0000264 95.6666361 172.855519 95.6666361 172.855519 94 178.617566 96.5 172.855519 99 172.855519 97.3333181 88 97.3333181"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

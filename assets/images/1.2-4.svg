@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="555px" height="197px" viewBox="0 0 555 197" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>编组 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="40" cy="40" r="40"></circle>
+    </defs>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lcm" transform="translate(-735.000000, -1935.000000)">
+            <g id="编组-15" transform="translate(150.000000, 1932.000000)">
+                <g id="编组-13" transform="translate(585.000000, 0.000000)">
+                    <rect id="矩形备份-33" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="410" y="46" width="144" height="30" rx="4"></rect>
+                    <rect id="矩形备份-28" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="1" y="46" width="155" height="30" rx="4"></rect>
+                    <rect id="矩形备份-34" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="410" y="83" width="144" height="30" rx="4"></rect>
+                    <rect id="矩形备份-29" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="1" y="83" width="155" height="30" rx="4"></rect>
+                    <rect id="矩形备份-35" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="410" y="120" width="144" height="30" rx="4"></rect>
+                    <rect id="矩形备份-31" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="1" y="120" width="155" height="30" rx="4"></rect>
+                    <rect id="矩形备份-36" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="410" y="157" width="144" height="30" rx="4"></rect>
+                    <rect id="矩形备份-32" stroke="#CBD3DA" stroke-width="2" fill="#FFFFFF" x="1" y="157" width="155" height="30" rx="4"></rect>
+                    <text id="登录ID：AD" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#4291F7">
+                        <tspan x="439" y="68">登录ID：AD</tspan>
+                    </text>
+                    <text id="来自OA：姓名" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#4291F7">
+                        <tspan x="27" y="68">来自OA：姓名</tspan>
+                    </text>
+                    <text id="登录密码：AD" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#4291F7">
+                        <tspan x="431" y="105">登录密码：AD</tspan>
+                    </text>
+                    <text id="来自OA：部门" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#4291F7">
+                        <tspan x="27" y="105">来自OA：部门</tspan>
+                    </text>
+                    <text id="CRM" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#4291F7">
+                        <tspan x="463" y="142">CRM</tspan>
+                    </text>
+                    <text id="来自钉钉：职位" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#4291F7">
+                        <tspan x="23" y="142">来自钉钉：职位</tspan>
+                    </text>
+                    <text id="钉钉" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#4291F7">
+                        <tspan x="466" y="179">钉钉</tspan>
+                    </text>
+                    <text id="来自HR系统：职级" font-family="PingFangSC-Medium, PingFang SC" font-size="16" font-weight="400" fill="#4291F7">
+                        <tspan x="11" y="179">来自HR系统：职级</tspan>
+                    </text>
+                    <text id="员工" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5B626E">
+                        <tspan x="272" y="198">员工</tspan>
+                    </text>
+                    <text id="身份信息" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5B626E">
+                        <tspan x="67" y="17">身份信息</tspan>
+                    </text>
+                    <text id="访问应用" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#5B626E">
+                        <tspan x="470" y="13">访问应用</tspan>
+                    </text>
+                    <polygon id="路径备份-14" fill="#4291F7" fill-rule="nonzero" transform="translate(201.488557, 84.819455) scale(1, -1) rotate(-30.000000) translate(-201.488557, -84.819455) " points="156.1798 83.9860912 241.035293 83.9860912 241.035293 82.319455 246.79734 84.819455 241.035293 87.319455 241.035293 85.6527731 156.179774 85.6527731"></polygon>
+                    <polygon id="路径备份-17" fill="#4291F7" fill-rule="nonzero" transform="translate(202.024527, 106.500000) scale(1, -1) rotate(-12.000000) translate(-202.024527, -106.500000) " points="162.000026 105.605441 236.287008 105.666636 236.287008 104 242.049055 106.5 236.287008 109 236.287008 107.333318 162 107.272123"></polygon>
+                    <polygon id="路径备份-18" fill="#4291F7" fill-rule="nonzero" transform="translate(202.024527, 127.500000) rotate(-12.000000) translate(-202.024527, -127.500000) " points="162.000026 126.605441 236.287008 126.666636 236.287008 125 242.049055 127.5 236.287008 130 236.287008 128.333318 162 128.272123"></polygon>
+                    <polygon id="路径备份-19" fill="#4291F7" fill-rule="nonzero" transform="translate(201.488557, 148.458365) rotate(-30.000000) translate(-201.488557, -148.458365) " points="156.1798 147.625001 241.035293 147.625001 241.035293 145.958365 246.79734 148.458365 241.035293 150.958365 241.035293 149.291683 156.179774 149.291683"></polygon>
+                    <polygon id="路径备份-11" fill="#4291F7" fill-rule="nonzero" transform="translate(365.933231, 150.453519) scale(1, -1) rotate(149.000000) translate(-365.933231, -150.453519) " points="320.624474 149.620155 405.479967 149.620155 405.479967 147.953519 411.242014 150.453519 405.479967 152.953519 405.479967 151.286837 320.624448 151.286837"></polygon>
+                    <polygon id="路径备份-11" fill="#4291F7" fill-rule="nonzero" transform="translate(365.775720, 128.766922) scale(1, -1) rotate(167.000000) translate(-365.775720, -128.766922) " points="325.751219 127.872363 400.038201 127.933558 400.038201 126.266922 405.800247 128.766922 400.038201 131.266922 400.038201 129.60024 325.751193 129.539045"></polygon>
+                    <polygon id="路径备份-13" fill="#4291F7" fill-rule="nonzero" transform="translate(366.142221, 107.770120) rotate(-191.000000) translate(-366.142221, -107.770120) " points="326.117719 106.875561 400.404701 106.936756 400.404701 105.27012 406.166748 107.77012 400.404701 110.27012 400.404701 108.603438 326.117693 108.542243"></polygon>
+                    <polygon id="路径备份-12" fill="#4291F7" fill-rule="nonzero" transform="translate(367.043883, 86.824301) rotate(-209.000000) translate(-367.043883, -86.824301) " points="321.735127 85.9909374 406.59062 85.9909374 406.59062 84.3243013 412.352666 86.8243013 406.59062 89.3243013 406.59062 87.6576194 321.7351 87.6576194"></polygon>
+                    <g id="编组-6" transform="translate(244.000000, 77.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <circle stroke="#4291F7" stroke-width="2" cx="40" cy="40" r="41"></circle>
+                        <g mask="url(#mask-2)" fill-rule="nonzero">
+                            <g transform="translate(4.050633, 5.569620)">
+                                <path d="M46.4398454,29.3670886 L46.4398454,39.6728208 C46.4398454,39.6728208 46.0745449,46.3837126 50.6328602,47.4040822 C50.6328602,47.4040822 50.7758039,58.2278481 35.9493671,58.2278481 L35.9493671,29.3670886 L46.4398454,29.3670886 Z M25.4588887,29.3670886 L25.4588887,39.6728208 C25.4588887,39.6728208 25.8241893,46.3837126 21.2658739,47.4040822 C21.2658739,47.4040822 21.1229303,58.2278481 35.9493671,58.2278481 L35.9493671,29.3670886 L25.4588887,29.3670886 L25.4588887,29.3670886 Z" id="形状" fill="#F0CFB9"></path>
+                                <path d="M47.182468,25.1996976 C47.182468,25.1996976 49.8114896,20.5025899 51.1675989,23.0206271 C52.5320278,25.5305936 51.0178445,31.8821808 46.0759494,33.9240506 L47.182468,25.1996976 L47.182468,25.1996976 Z M25.8227848,33.9240506 C20.885273,31.8816227 19.3698815,25.5282995 20.7270728,23.0176469 C22.0925904,20.5069944 24.7153833,25.1973131 24.7153833,25.1973131 L25.8227848,33.9240506 Z" id="形状" fill="#F0CFB9"></path>
+                                <path d="M35.6962025,11.4484087 C38.9145052,11.4484087 48.0411565,12.4821492 48.0411565,12.4821492 C48.0411565,12.4821492 49.1139241,22.4249973 49.1139241,26.9860815 C49.1139241,35.5637608 42.5147782,42.5316456 35.6962025,42.5316456 C28.8776269,42.5316456 22.278481,35.5716519 22.278481,26.9860815 C22.278481,21.5964266 23.3512486,8.60759494 23.3512486,8.60759494 C23.3512486,8.60759494 33.1605701,11.4484087 35.6962025,11.4484087" id="路径" fill="#F0CFB9"></path>
+                                <path d="M22.4677663,23.9885136 C22.4677663,23.9885136 16.4936822,17.249218 22.2497929,6.1254161 C25.148031,0.527836514 31.3643077,0.0441929519 34.2706189,0.00455003701 C44.6122428,-0.14609304 51.0949313,3.42969789 52.0233363,12.8488545 C52.8871565,21.6971531 49.1331713,24.9558007 48.640713,24.8051576 C48.640713,24.8051576 46.5982221,19.1045064 46.5578567,15.3067152 C46.5578567,15.3067152 34.5208845,20.3889369 26.7142098,10.8270658 C23.194344,11.8419244 22.4354739,21.6099387 22.4677663,23.9885136" id="路径" fill="#45474C"></path>
+                                <path d="M71.7542948,55.0518579 C64.0428345,48.6332381 49.3902577,47.0966109 49.3902577,47.0966109 C49.3902577,47.0966109 45.5786618,56.5484688 36.6635398,56.5484688 C30.5088156,56.6285014 24.9799955,52.8269498 22.8856239,47.0886076 C14.9494801,47.5688036 7.39048373,50.4659861 1.16353978,55.3319722 C0.778367993,55.6360964 0.377147378,55.924214 0,56.2363414 L0,71.8987342 C15.7182753,75.6118143 27.6170095,77.4683544 35.6962025,77.4683544 C43.7753955,77.4683544 55.8429061,75.6118143 71.8987342,71.8987342 L71.8987342,55.1639036 C71.8505877,55.1238873 71.7944168,55.0918742 71.7542948,55.0518579 Z" id="路径" fill="#0FA180"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
